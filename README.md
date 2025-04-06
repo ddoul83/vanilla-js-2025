@@ -1,3 +1,3 @@
-# JS Vanilla 2025
+# Vanilla Java Script 2025
 
-This is my first vanilla java script project!
+This is my first Vanilla Java Script project!
